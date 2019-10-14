@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  apicharts:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-10-14T06:22:16.7337331+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 1cc2034136aca929312ccf25ee899efe1f4b0de8fe40de9ca2c309bca8e24195
+    name: apicharts
+    urls:
+    - https://github.com/ranganalluri/helm/apicharts-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-10-14T06:22:16.7326935+05:30"
